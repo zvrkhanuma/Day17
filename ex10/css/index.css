@@ -1,0 +1,89 @@
+body {
+    background-image: url("https://image.ibb.co/cO9Lxq/login-bg.jpg");
+}
+#wrapper {
+    float: left;
+    background-color:black;
+    height: auto;
+    width: auto;
+    padding-top: 40px;
+    
+    
+
+}
+#left {
+    float: left;
+    padding-right: 80px;
+    padding-bottom: 200px;
+}
+#signin {
+   color: rgb(215, 221, 221);
+   font-size: 10px;
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
+   text-align: left;
+   padding-left: 40px;
+   border: none;
+ 
+  
+   
+}
+.logo {
+    padding-left: 10px;
+    
+    
+}
+.text-input {
+    width: 100%;
+    
+}
+.primary-btn {
+  width: 102.1%;
+  background-color: rgb(42, 86, 206);
+  color: aliceblue;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border: none;
+}
+#links {
+   padding-top: 10%;
+   color: lightblue;
+   text-align: center;
+    
+}
+.hr-bar {
+    padding-top: 20%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.bar {
+   margin-top: 20%;
+}
+.secondary-btn {
+    width: 100%;
+    background-color: gray;
+    height: 50%;
+}
+#main-footer {
+    color: gray;
+    font-size: 50%;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+#right {
+    padding-top: 50%;
+    padding-left: 120%;
+    color: honeydew;
+    width: 100%;
+    
+}
+#showcase {
+  
+}
+#showcase-content {
+  
+}
+.showcase-text {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+
+}
