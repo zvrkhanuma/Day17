@@ -11,7 +11,7 @@ function main(myCar) {
 	const {
         cylinders: carCylinders, 
         size: carSize
-	} = MY_CAR;
+	} = myCar;
    return { carCylinders, carSize };
 	// Only change code above this line
 }
